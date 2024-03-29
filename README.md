@@ -1,13 +1,13 @@
 # Face expression recognition project for real-time stress effort classification - PMR3500 TCC
 
 ## Overview
-    This project implements popular back-bone CNN architectures to classify patient's effort through real-time images of a patient's face.
+This project implements popular back-bone CNN architectures to classify patient's effort through real-time images of a patient's face.
 
 ## Setup
-    TBD
+TBD
 
 ## Model
-    TBD
+TBD
 
 ## Authors
-    Breno Brito do Nascimento and Diogo Jahchan Koike.
+Breno Brito do Nascimento and Diogo Jahchan Koike.
