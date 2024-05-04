@@ -1,0 +1,13 @@
+{
+"model": "small",
+"height": 112,
+"width": 112,
+"class_number": 7,
+"learning_rate": 0.001,
+"batch": 32,
+"epochs": 20,
+"train_dir": "DATASET/train",
+"eval_dir": "DATASET/test",
+"save_dir": "save",
+"weights": ""
+}
